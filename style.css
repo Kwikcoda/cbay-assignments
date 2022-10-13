@@ -1,0 +1,86 @@
+p{
+    background-color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tree{
+    background-color: white;
+    border: 1px solid rgb(241, 236, 236);
+    height: 220px;
+    width: 220px;
+    float: left;
+}
+img{
+    height: 200px;
+    width: 200px;
+    padding-left: 5px;
+}
+.apple{
+    height: 220px;
+    width: 220px;
+    float: right;
+    padding-top: 3%;
+}
+
+#nsk{
+    color: brown;
+    margin-inline: 15%;
+    font-style: oblique;
+}
+
+.pages{
+    background-color: white;
+}
+
+.grid{
+    background-color: peachpuff;
+}
+
+.grid-container{
+    display: grid;
+    height: 250px;
+    width: 1250px;
+    grid-template-columns: 400px auto;
+    grid-template-rows: auto 20px 40px;
+    gap: 20px;
+    border: 2px solid white;
+    padding-top: 10px;
+    padding-left: 30px;
+    background-color: whitesmoke;
+}
+.box1{
+    border:
+     1px solid black;
+    width: 400px;
+    height: 100px;
+}
+.box2{
+    border: 1px solid blue;
+    width: 800px;
+    height: 120px;
+}
+.box3{
+    border: 1px solid blueviolet;
+    width: 400px;
+    height: 60px;
+    
+}
+.box4{
+    border: 1px solid gold;
+    width: 400px;
+    height: 20px;
+    margin-inline: 400px;
+}
+.box5{
+    border: 1px solid red;
+    width: 385px;
+    height: 20px;
+    margin-bottom: 100px;
+    margin-inline: 420px;
+}
+.box6{
+    border: 1px solid brown;
+    width: 400px;
+    height: 20px;
+    margin-inline: 400px;
+}
